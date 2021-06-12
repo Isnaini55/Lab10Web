@@ -3,7 +3,11 @@
 # Praktikum 10
 
 ## Langkah-langkah Praktikum
-Buat file baru dengan nama mobil.php
+
+## Buat folder baru dengan nama lab10_php_oop pada docroot webserver (htdocs)
+![lab10_php_oop](https://user-images.githubusercontent.com/81541764/121777404-0bf7a000-cbbc-11eb-8b14-48269897b2b6.jpg)
+
+## Buat file baru dengan nama mobil.php
 ~~~
 <?php 
 /**
@@ -54,7 +58,7 @@ $b->tampilWarna();
 ~~~
 ![mobil](https://user-images.githubusercontent.com/81541764/121750801-42d7a280-cb37-11eb-8ab9-31083e3820cc.JPG)
 
-Buat file baru dengan nama form.php
+## Buat file baru dengan nama form.php
 ~~~
 <?php 
 /**
@@ -113,7 +117,7 @@ Buat file baru dengan nama form.php
 ~~~
 ![form](https://user-images.githubusercontent.com/81541764/121750986-90eca600-cb37-11eb-8cad-3f00de61ce4f.JPG)
 
-Buat file baru dengan nama form_input.php
+## Buat file baru dengan nama form_input.php
 ~~~
 <?php 
 /**
